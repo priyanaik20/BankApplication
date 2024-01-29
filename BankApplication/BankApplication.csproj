@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <Folder Include="DTOs\ResponseDTOs\" />
-    <Folder Include="DTOs\RequestDTOS\" />
     <Folder Include="Entities\" />
   </ItemGroup>
 
